@@ -23,7 +23,7 @@ try:
         DEBUG_CHANNEL_ID = os.environ.get('DEBUG_CHANNEL_ID', False)
 except:
         MESSAGE = ' Welcome to GuruHaven:gh:! \nPlease read the rules document pinned to this channel before taking any action based on the alerts or chat room ideas.'
-        TOKEN = 'x6VxJK46Si08OrD1zrO7Bh9N'
+        TOKEN = 'add slack token here'
         UNFURL = 'FALSE'
 ###############################################################
 
